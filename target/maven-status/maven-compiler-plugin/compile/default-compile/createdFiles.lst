@@ -1,5 +1,7 @@
+com\baeldung\dropwizard\introduction\ChatServer.class
 com\baeldung\dropwizard\introduction\resource\BrandResource.class
 com\baeldung\dropwizard\introduction\configuration\BasicConfiguration.class
+com\baeldung\dropwizard\introduction\Mine.class
 com\baeldung\dropwizard\introduction\configuration\ApplicationHealthCheck.class
 com\baeldung\dropwizard\introduction\IntroductionApplication.class
 com\baeldung\dropwizard\introduction\domain\Brand.class
