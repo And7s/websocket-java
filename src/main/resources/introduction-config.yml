@@ -1,0 +1,5 @@
+server:
+  type: default
+  maxThreads: 100
+  maxQueuedRequests: 100
+defaultSize: 5

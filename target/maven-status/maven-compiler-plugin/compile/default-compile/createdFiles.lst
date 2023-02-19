@@ -1,0 +1,6 @@
+com\baeldung\dropwizard\introduction\resource\BrandResource.class
+com\baeldung\dropwizard\introduction\configuration\BasicConfiguration.class
+com\baeldung\dropwizard\introduction\configuration\ApplicationHealthCheck.class
+com\baeldung\dropwizard\introduction\IntroductionApplication.class
+com\baeldung\dropwizard\introduction\domain\Brand.class
+com\baeldung\dropwizard\introduction\repository\BrandRepository.class
